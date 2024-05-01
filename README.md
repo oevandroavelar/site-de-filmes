@@ -1,5 +1,5 @@
 # 🎬 Site de Filmes
-> Desenvolvido por Vitória de Valois, a partir de aulas encontradas no meio eletrônico.
+> Desenvolvido por Evandro Avelar, a partir de aulas encontradas no meio eletrônico.
 
 ## 💻 Tecnologias Usadas
 
